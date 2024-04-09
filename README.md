@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Repository per il progetto del corso di Laboratorio Software e Sicurezza Informatica per l'anno accademico 2021/2022.
+Il progetto consiste nello sviluppo di un sito web con diverse features.
